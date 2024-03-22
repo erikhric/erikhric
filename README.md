@@ -6,7 +6,7 @@
 I’m currently:
 - 🔭 building [🍒CherryPeak🏔️](https://cherrypeak.eu/) with my friends 🫶
 - 🌱 learning serverless AWS stack
-- 👯 looking to collaborate on AI/ML🧠, AR/VR👓 and Web3/Blockchain⛓️ projects
+- 👯 open to collaborate on AI/ML🧠, AR/VR👓 projects
 - 🤔 looking for help with hardware development 👾 and logistics 🚚
 
 # 💻 Tech Stack:
